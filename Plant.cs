@@ -9,6 +9,7 @@ namespace Plant_Model_Layer
     // This is a Model Class, it holds the Propery of our Database with getter and setter methods and can be accessed by Presentation Layer
     //  (View) to transfer the properties values into Business Access Layer (Controller)
     
+    
     public class Plant
     {
         public int Plant_id { get; set; }
