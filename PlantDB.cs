@@ -13,7 +13,7 @@ using Plant_Model_Layer;
 
 namespace Plant_Data_Access_Layer
 {
-    // This is a Data Access Layer which can only be accessed by a Business Layer
+    // This is a Data Access Layer which can only be accessed by a Business Layer (Controller)
     
     public class PlantDB
     {
