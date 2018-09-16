@@ -11,7 +11,7 @@ namespace Plant_Business_Logic_Layer
 {
     public class PlantBusiness
     {
-        // This is a Business Access Layer (Controller) for Pesentation Layer (View) to perform the Database related Operation
+        // This is a Business Access Layer (Controller) for Presentation Layer (View) to perform the Database related Operation
         
         public static void AddPlant(Plant plant)
         {
