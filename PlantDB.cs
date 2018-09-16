@@ -52,8 +52,6 @@ namespace Plant_Data_Access_Layer
                 // Execute the SQL Command
                 cmd.ExecuteNonQuery();
             }
-
-
         }
 
         public static DataSet GetPlantByPlantId(int PlantId)
