@@ -152,7 +152,6 @@ namespace Aufgabe
                 byte[] img = (byte[])row.Cells["plant_image"].Value;
                 MemoryStream ms = new MemoryStream(img);
                 pictureBox1.Image = Image.FromStream(ms);
-
             }
         }
 
