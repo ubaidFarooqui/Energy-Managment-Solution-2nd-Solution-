@@ -16,7 +16,8 @@ using Plant_Model_Layer;
 
 namespace Aufgabe
 {
-    // This is Complete Presentation Layer (View)
+    // This is Complete Presentation Layer (View) which can only communicate with Business Layer (Controller) and Model for database
+    // properties
     
     public partial class Plant_Managment_System : Form
     {   
