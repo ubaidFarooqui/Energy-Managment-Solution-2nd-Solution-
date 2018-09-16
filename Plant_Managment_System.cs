@@ -16,9 +16,10 @@ using Plant_Model_Layer;
 
 namespace Aufgabe
 {
+    // This is Complete Presentation Layer (View)
+    
     public partial class Plant_Managment_System : Form
-    {
-
+    {   
         public Plant_Managment_System()
         {
             InitializeComponent();
